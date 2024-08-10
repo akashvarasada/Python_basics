@@ -15,10 +15,11 @@ github: https://github.com/akashvarasada/TOPS_Python
 
 ## Setup:
 
-setup profile in github : https://github.com/akashvarasada/TOPS_Python
+Setup profile in github : https://github.com/akashvarasada/TOPS_Python
+
 Download git bash : https://git-scm.com/download/win
 
-set credentials for github Onetime.
+Set credentials for github Onetime.
 
 git config --global [user.name](http://user.name/) "Your Name"
 
