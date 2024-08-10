@@ -3,35 +3,35 @@
 
 1. Python guide by standford :
 
-https://cs.stanford.edu/people/nick/py/
+    https://cs.stanford.edu/people/nick/py/
 
 2. Built in functions:
 
-https://docs.python.org/3/library/functions.html
+    https://docs.python.org/3/library/functions.html
 
 3. Data structures :
 
-https://docs.python.org/3/tutorial/datastructures.html
+    https://docs.python.org/3/tutorial/datastructures.html
 
 ## Documents:
 
 1. Notes :
 
-https://www.notion.so/Software-Devlopment-3a1dc95a69034c97bea069f97fd45710
+    https://www.notion.so/Software-Devlopment-3a1dc95a69034c97bea069f97fd45710
 
 2. GitHub:
 
-https://github.com/akashvarasada/TOPS_Python
+    https://github.com/akashvarasada/TOPS_Python
 
 ## Setup:
 
 1. Setup profile in GitHub : 
 
-https://github.com/akashvarasada/TOPS_Python
+    https://github.com/akashvarasada/TOPS_Python
 
 2. Download Git Bash : 
 
-https://git-scm.com/download/win
+    https://git-scm.com/download/win
 
 3. Set credentials for GitHub Onetime in Git Bash.
 
