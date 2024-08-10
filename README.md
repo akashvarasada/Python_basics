@@ -52,10 +52,10 @@
 
     ![step1](image-1.png)
 
-2. follow along with the code given in the snapshot.
+2. Follow along with the code given in the snapshot.
 
     ![step2](image.png)
 
-3. validate in GitHub remote main branch.
+3. Validate in GitHub remote main branch.
 
     ![step3](image-2.png)
