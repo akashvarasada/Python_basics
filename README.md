@@ -1,23 +1,37 @@
 # Python:
 ## Good reads:
 
-1. Python guide by standford : https://cs.stanford.edu/people/nick/py/
+1. Python guide by standford :
 
-2. Built in functions: https://docs.python.org/3/library/functions.html
+https://cs.stanford.edu/people/nick/py/
 
-3. Data structures : https://docs.python.org/3/tutorial/datastructures.html
+2. Built in functions:
+
+https://docs.python.org/3/library/functions.html
+
+3. Data structures :
+
+https://docs.python.org/3/tutorial/datastructures.html
 
 ## Documents:
 
-1. Notes : https://www.notion.so/Software-Devlopment-3a1dc95a69034c97bea069f97fd45710
+1. Notes :
 
-2. GitHub: https://github.com/akashvarasada/TOPS_Python
+https://www.notion.so/Software-Devlopment-3a1dc95a69034c97bea069f97fd45710
+
+2. GitHub:
+
+https://github.com/akashvarasada/TOPS_Python
 
 ## Setup:
 
-1. Setup profile in GitHub : https://github.com/akashvarasada/TOPS_Python
+1. Setup profile in GitHub : 
 
-2. Download Git Bash : https://git-scm.com/download/win
+https://github.com/akashvarasada/TOPS_Python
+
+2. Download Git Bash : 
+
+https://git-scm.com/download/win
 
 3. Set credentials for GitHub Onetime in Git Bash.
 
@@ -42,6 +56,6 @@
 
     ![step2](image.png)
 
-3. validate in github remote main branch.
+3. validate in GitHub remote main branch.
 
     ![step3](image-2.png)
