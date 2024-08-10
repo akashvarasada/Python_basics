@@ -9,9 +9,11 @@
 
 ## Documents:
 
-1. Notes : https://www.notion.so/Software-Devlopment-3a1dc95a69034c97bea069f97fd45710
+1. Notes : 
+    https://www.notion.so/Software-Devlopment-3a1dc95a69034c97bea069f97fd45710
 
-2. GitHub: https://github.com/akashvarasada/TOPS_Python
+2. GitHub:
+    https://github.com/akashvarasada/TOPS_Python
 
 ## Setup:
 
