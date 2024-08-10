@@ -1,42 +1,47 @@
-# TOPS_Python
+# Python:
 ## Good reads:
 
-Python guide by standford : https://cs.stanford.edu/people/nick/py/
+1. Python guide by standford : https://cs.stanford.edu/people/nick/py/
 
-Built in functions: https://docs.python.org/3/library/functions.html
+2. Built in functions: https://docs.python.org/3/library/functions.html
 
-Data structures : https://docs.python.org/3/tutorial/datastructures.html
+3. Data structures : https://docs.python.org/3/tutorial/datastructures.html
 
 ## Documents:
 
-Notes : https://www.notion.so/Software-Devlopment-3a1dc95a69034c97bea069f97fd45710
+1. Notes : https://www.notion.so/Software-Devlopment-3a1dc95a69034c97bea069f97fd45710
 
-github: https://github.com/akashvarasada/TOPS_Python
+2. GitHub: https://github.com/akashvarasada/TOPS_Python
 
 ## Setup:
 
-Setup profile in github : https://github.com/akashvarasada/TOPS_Python
+1. Setup profile in GitHub : https://github.com/akashvarasada/TOPS_Python
 
-Download git bash : https://git-scm.com/download/win
+2. Download Git Bash : https://git-scm.com/download/win
 
-Set credentials for github Onetime.
+3. Set credentials for GitHub Onetime in Git Bash.
 
-git config --global [user.name](http://user.name/) "Your Name"
+    `git config --global [user.name](http://user.name/) "Your Name"`
 
-git config --global user.email "[you@example.com](mailto:you@example.com)"
+    `git config --global user.email "[you@example.com](mailto:you@example.com)"`
 
-PS C:\Users\akash.varasada\Udemy-Python> git config --global [user.name](http://user.name/) "akash.varasada"
+    ```python
+    PS C:\Users\akash.varasada\Udemy-Python> git config --global [user.name](http://user.name/) "akash.varasada"
 
-PS C:\Users\akash.varasada\Udemy-Python> git config --global user.email "[akash.varasada@gmail.com](mailto:akash.varasada@gmail.com)"
+    PS C:\Users\akash.varasada\Udemy-Python> git config --global user.email "[akash.varasada@gmail.com](mailto:akash.varasada@gmail.com)"
+    ```
 
 
-## Git bash for version control
+## Git Bash for version control:
 
-##### Step-1 go on the repo folder and do Shift + right click and select "Open Git Bash here" option.
-![alt text](image-1.png)
+1. Go on the repo folder and do `shift + right click` and select `Open Git Bash here` option.
 
-##### step-2 follow along with the code given in the snapshot.
-![alt text](image.png)
+    ![step1](image-1.png)
 
-##### step-3 validate in github remote.
-![alt text](image-2.png)
+2. follow along with the code given in the snapshot.
+
+    ![step2](image.png)
+
+3. validate in github remote main branch.
+
+    ![step3](image-2.png)
