@@ -1,4 +1,4 @@
-# Python:
+# Python course:
 ## Good reads:
 
 1. Python guide by standford :
