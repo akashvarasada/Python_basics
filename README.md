@@ -1,4 +1,4 @@
-# Python course:
+# Python learning:
 ## Good reads:
 
 1. Python guide by standford :
