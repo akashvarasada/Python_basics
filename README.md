@@ -21,7 +21,9 @@
 
 2. GitHub:
 
-    https://github.com/akashvarasada/TOPS_Python
+    https://github.com/akashvarasada/TOPS_Python 
+
+Use VSCode + Github for developments
 
 ## Setup:
 
