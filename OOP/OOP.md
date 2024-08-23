@@ -34,9 +34,9 @@ The capability of a class to derive properties and characteristics from another 
 ### Types of Inheritance:
 
 1. Single Inheritance
-2. Multilevel inheritance
-3. Multiple Inheritance
-4. Hierarical Inheritance
+2. Multiple Inheritance
+3. Multilevel inheritance
+4. Hierarchical Inheritance
 5. Hybrid Inheritance
 
 ![alt text](image.png)
