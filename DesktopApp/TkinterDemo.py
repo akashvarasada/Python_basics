@@ -1,15 +1,12 @@
 # desktop application
 # GUI
-
-# pip install mysql-connector-python
-import mysql.connector
 import sqlite3
 
 from tkinter import *
 import tkinter.messagebox as msg
 
 def create_conn():
-    return sqlite3.connect('Desktop App\Database\python_mwf_10.db')
+    return sqlite3.connect('DesktopApp/Database/python_mwf_10.db')
 
 print(create_conn())
 
@@ -26,7 +23,8 @@ def insert_data():
         e_lname.delete(0,"end")
         e_email.delete(0,"end")
         e_mobile.delete(0,"end")
-
+        conn.commit()
+        conn.close()
 
 
 root = Tk()

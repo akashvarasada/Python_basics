@@ -1,7 +1,7 @@
 import sqlite3
 
 # Connect to SQLite database (or create it if it doesn't exist)
-conn = sqlite3.connect('Desktop App\Database\python_mwf_10.db')
+conn = sqlite3.connect('DesktopApp/Database/python_mwf_10.db')
 
 # Create a cursor object to execute SQL commands
 cursor = conn.cursor()
