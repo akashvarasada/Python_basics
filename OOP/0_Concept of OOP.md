@@ -55,7 +55,7 @@ The word polymorphism means having many forms. In simple words, we can define po
 
 2. runtime Polymorphism - Method Overriding
 
-    Where there is a same method prototype in your both base class derived class and if you call that method using the object of derived class then only derived class method will be called you can say that method of derived class overrides method of base class.
+    Where there is a same method prototype in your both base class derived class and if you call that method using the object of derived class then only derived class method will be called. You can say that method of derived class overrides method of base class.
 
 ![alt text](image-1.png)
 
