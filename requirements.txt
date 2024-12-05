@@ -20,11 +20,6 @@ catboost
 nltk
 spacy
 transformers
-# torchtext
-# sentencepiece
-# fasttext
-# gensim
-# textblob
 
 # # Data processing & feature engineering
 joblib
