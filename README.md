@@ -38,6 +38,7 @@ Use VSCode + Github for developments
 3. Set credentials for GitHub Onetime in Git Bash.
 
    git config --global user.email "you@example.com"
+
    git config --global user.name "Your Name"
 
 For example:
