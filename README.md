@@ -21,31 +21,30 @@
 
 2. GitHub:
 
-    https://github.com/akashvarasada/TOPS_Python 
+    https://github.com/akashvarasada/TOPS_Python
 
 Use VSCode + Github for developments
 
 ## Setup:
 
-1. Setup profile in GitHub : 
+1. Setup profile in GitHub :
 
     https://github.com/akashvarasada/TOPS_Python
 
-2. Download Git Bash : 
+2. Download Git Bash :
 
     https://git-scm.com/download/win
 
 3. Set credentials for GitHub Onetime in Git Bash.
 
-    `git config --global [user.name](http://user.name/) "Your Name"`
+   git config --global user.email "you@example.com"
+   git config --global user.name "Your Name"
 
-    `git config --global user.email "[you@example.com](mailto:you@example.com)"`
+For example:
 
-    ```python
-    PS C:\Users\akash.varasada\Udemy-Python> git config --global [user.name](http://user.name/) "akash.varasada"
+   git config --global user.email "akash.varasada@gmail.com"
 
-    PS C:\Users\akash.varasada\Udemy-Python> git config --global user.email "[akash.varasada@gmail.com](mailto:akash.varasada@gmail.com)"
-    ```
+   git config --global user.name "akash.varasada"
 
 
 ## Git Bash for version control:
